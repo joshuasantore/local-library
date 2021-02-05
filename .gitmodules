@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = ./backend
+[submodule "local-library-backend"]
+	path = local-library-backend
+	url = https://github.com/joshuasantore/local-library-backend.git
