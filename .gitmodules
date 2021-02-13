@@ -1,6 +1,0 @@
-[submodule "backend"]
-	path = local-library-backend
-	url = https://github.com/joshuasantore/local-library-backend.git
-[submodule "client"]
-	path = local-library-client
-	url = https://github.com/joshuasantore/local-library-client.git
