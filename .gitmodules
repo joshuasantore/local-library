@@ -1,6 +1,3 @@
 [submodule "Backend"]
 	path = local-library-backend
 	url = https://github.com/joshuasantore/local-library-backend
-[submodule "Client"]
-	path = local-library-client
-	url = https://github.com/joshuasantore/local-library-client
